@@ -1,8 +1,8 @@
 package project2;
 
-public class class1 {
+public class Newclass {
 	public static void main(String[] args) {
-		System.out.println("changes done");
+		System.out.println("new class");
 	}
 
 }
